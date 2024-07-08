@@ -1,1 +1,1 @@
-# odin-reciepes-3.0
+Simple project that is part of the odin project. 
